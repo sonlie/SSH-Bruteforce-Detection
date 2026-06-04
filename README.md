@@ -10,6 +10,7 @@ This project simulates an SSH brute-force attack against a Linux server and dete
 - Python
 - Hydra
 - VirtualBox
+- Kali Linux
 
 ## Detection Logic
 
